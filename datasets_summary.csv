@@ -1,0 +1,15 @@
+Dataset,Rows,Numerical attributes,Categorial attributes,Contains missing values,Event occurrences count
+GBSG2,686,6,3,no,299
+Melanoma,205,4,4,no,71
+bmt-ch,187,10,26,yes,85
+cancer,228,8,0,yes,165
+follic,541,4,1,no,348
+hd,865,3,4,no,426
+lung,1032,6,2,yes,764
+mgus,241,8,2,yes,184
+pbc,418,17,1,yes,161
+std,877,20,2,no,347
+uis,575,14,0,no,464
+whas1,481,8,0,no,249
+whas500,500,14,0,no,215
+zinc,431,47,9,yes,81
