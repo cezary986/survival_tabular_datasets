@@ -5,7 +5,7 @@ import pandas as pd
 _BASE_URL = (
     "https://github.com/cezary986/survival_tabular_datasets/raw/refs/heads/main"
 )
-_LABEL_COLUMN = "class"
+_LABEL_COLUMN = "survival_status"
 AVAILABLE_DATASETS: list[str] = [
     "Melanoma",
     "cancer",
