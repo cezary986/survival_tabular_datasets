@@ -20,8 +20,8 @@ All datasets are splitted to train and test parts. If whole unsplitted dataset w
 | [pbc](https://cran.r-project.org/web/packages/survival/survival.pdf) | 418 | 18 (17 numerical and 1 categorical) | yes  |  161 |
 | [std](https://cran.r-project.org/web/packages/KMsurv/KMsurv.pdf) | 877 | 22 (20 numerical and 2 categorical) | no  |  347 |
 | [uis](https://cran.r-project.org/web/packages/quantreg/quantreg.pdf) | 575 | 14 (14 numerical and 0 categorical) | no  |  464 |
-| [whas1](​ftp://ftp.wiley.com/public/sci_tech_med/survival) | 481 | 8 (8 numerical and 0 categorical) | no  |  249 |
-| [whas500](​ftp://ftp.wiley.com/public/sci_tech_med/survival) | 500 | 14 (14 numerical and 0 categorical) | no  |  215 |
+| [whas1](https://web.archive.org/web/20170318010915/http://www.umass.edu/statdata/statdata/data/whas1.txt) | 481 | 8 (8 numerical and 0 categorical) | no  |  249 |
+| [whas500](https://web.archive.org/web/20170517071528/http://www.umass.edu/statdata/statdata/data/whas500.txt) | 500 | 14 (14 numerical and 0 categorical) | no  |  215 |
 | [zinc](https://dceg.cancer.gov/tools/analysis/nested-cohort) | 431 | 56 (47 numerical and 9 categorical) | yes  |  81 |
 
 Dataset summary is also available in csv file [datasets_summary.csv](https://github.com/cezary986/survival_tabular_datasets/blob/main/datasets_summary.csv) in root repo directory.
