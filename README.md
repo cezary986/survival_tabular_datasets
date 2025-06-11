@@ -2,6 +2,8 @@
 
 This repository contains numerous benchmark tabular datasets for testing various survival analysis algorithms.
 
+Check also [Classification Tabular Datasets](https://github.com/cezary986/classification_tabular_datasets) and [Regression Tabular Datasets](https://github.com/cezary986/regression_tabular_datasets)
+
 All datasets are splitted to train and test parts. If whole unsplitted dataset was accessible it is also splitted into 10-fold cross validation datasets. Each dataset contains survival status and column named **survival_status**  and survival time column named **survival_time**. Files in parquet data format is used which could be easily loaded using pandas Python package. Survival status columns contains numerical values of 0 and 1 where 1 mean occurrence of event.
 
 
