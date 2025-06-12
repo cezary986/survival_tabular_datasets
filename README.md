@@ -16,7 +16,7 @@ All datasets are splitted to train and test parts. If whole unsplitted dataset w
 | [follic](https://cran.r-project.org/web/packages/randomForestSRC/randomForestSRC.pdf) | 541 | 5 (4 numerical and 1 categorical) | no  |  348 |
 | [GBSG2](https://cran.r-project.org/web/packages/TH.data/TH.data.pdf) | 686 | 9 (6 numerical and 3 categorical) | no  |  299 |
 | [hd](https://cran.r-project.org/web/packages/randomForestSRC/randomForestSRC.pdf) | 865 | 7 (3 numerical and 4 categorical) | no  |  426 |
-| [lung]([​https://www.stats.ox.ac.uk/pub/datasets/csb](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/lung.html)) | 1032 | 8 (6 numerical and 2 categorical) | yes  |  764 |
+| [lung]([​https://www.stats.ox.ac.uk/pub/datasets/csb](https://stat.ethz.ch/R-manual/R-devel/library/survival/html/lung.html) | 1032 | 8 (6 numerical and 2 categorical) | yes  |  764 |
 | [Melanoma](https://cran.r-project.org/web/packages/riskRegression/riskRegression.pdf) | 205 | 8 (4 numerical and 4 categorical) | no  |  71 |
 | [mgus](https://cran.r-project.org/web/packages/survival/survival.pdf) | 241 | 10 (8 numerical and 2 categorical) | yes  |  184 |
 | [pbc](https://cran.r-project.org/web/packages/survival/survival.pdf) | 418 | 18 (17 numerical and 1 categorical) | yes  |  161 |
