@@ -11,7 +11,7 @@ All datasets are splitted to train and test parts. If whole unsplitted dataset w
 
 | Dataset name                                                                                            | Rows    | Columns | Missing values | Events occurences |
 | ------------------------------------------------------------------------------------------------------- | ------- | ------- | -------------- |-------------------|
-| [bmt-ch](https://github.com/adaa-polsl/GuideR/blob/master/datasets/bmt/bone-marrow.arff) | 187 | 36 (10 numerical and 26 categorical) | yes  |  85 |
+| [bmt-ch](https://archive.ics.uci.edu/dataset/565/bone+marrow+transplant+children) | 187 | 36 (10 numerical and 26 categorical) | yes  |  85 |
 | [cancer](https://cran.r-project.org/web/packages/survival/survival.pdf) | 228 | 8 (8 numerical and 0 categorical) | yes  |  165 |
 | [follic](https://cran.r-project.org/web/packages/randomForestSRC/randomForestSRC.pdf) | 541 | 5 (4 numerical and 1 categorical) | no  |  348 |
 | [GBSG2](https://cran.r-project.org/web/packages/TH.data/TH.data.pdf) | 686 | 9 (6 numerical and 3 categorical) | no  |  299 |
